@@ -16,6 +16,7 @@ const REPOS = [
 	"https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
 	"https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/refs/heads/main/plugin_repository.json",
 	"https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+	"https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
 	"https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json",
 	"https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
 	"https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
