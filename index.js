@@ -21,6 +21,7 @@ const REPOS = [
 	"https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
 	"https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
 	"https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json",
+	"https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
 	"https://repo.caraxian.com",
 ];
 
