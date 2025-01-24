@@ -2,6 +2,7 @@ const fs = require("node:fs");
 const https = require("node:https");
 
 const REPOS = [
+	"https://aetherment.sevii.dev/plugin",
 	"https://plugins.carvel.li",
 	"https://puni.sh/api/plugins",
 	"https://puni.sh/api/repository/croizat",
