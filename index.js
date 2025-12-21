@@ -1,5 +1,4 @@
 const fs = require("node:fs");
-const https = require("node:https");
 
 const REPOS = [
   "https://aetherment.sevii.dev/plugin",
