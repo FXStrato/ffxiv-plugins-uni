@@ -4,9 +4,13 @@ const https = require("node:https");
 const REPOS = [
   "https://aetherment.sevii.dev/plugin",
   "https://puni.sh/api/plugins",
+  "https://puni.sh/api/repository/akechi",
   "https://puni.sh/api/repository/croizat",
+  "https://puni.sh/api/repository/erdelf",
   "https://puni.sh/api/repository/herc",
   "https://puni.sh/api/repository/kawaii",
+  "https://puni.sh/api/repository/knightmore",
+  "https://puni.sh/api/repository/vera",
   "https://puni.sh/api/repository/veyn",
   "https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json",
   "https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json",
