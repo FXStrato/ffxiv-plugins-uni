@@ -12,7 +12,7 @@ const REPOS = [
   "https://puni.sh/api/repository/vera",
   "https://puni.sh/api/repository/veyn",
   "https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json",
-  "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/refs/heads/main/repo.json"
+  "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/refs/heads/main/repo.json",
   "https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json",
   "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
   "https://raw.githubusercontent.com/Etheirys/Brio/main/repo.json",
