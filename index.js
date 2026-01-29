@@ -7,6 +7,7 @@ const REPOS = [
   "https://puni.sh/api/repository/croizat",
   "https://puni.sh/api/repository/erdelf",
   "https://puni.sh/api/repository/herc",
+  "https://puni.sh/api/repository/ice",
   "https://puni.sh/api/repository/kawaii",
   "https://puni.sh/api/repository/knightmore",
   "https://puni.sh/api/repository/vera",
