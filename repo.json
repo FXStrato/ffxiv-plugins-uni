@@ -81,7 +81,7 @@
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DownloadCount": 4759469,
+    "DownloadCount": 4759484,
     "LastUpdate": 1777146524,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/update/latest.zip",
@@ -151,7 +151,7 @@
     "Tags": [],
     "InternalName": "AutoDuty",
     "RepoUrl": "https://github.com/erdelf/AutoDuty",
-    "DownloadCount": 1438402,
+    "DownloadCount": 1438403,
     "LastUpdate": 1776290823,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.300/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.300/update/latest.zip",
@@ -182,7 +182,7 @@
     ],
     "InternalName": "AutoHook",
     "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-    "DownloadCount": 1334240,
+    "DownloadCount": 1334244,
     "LastUpdate": 1770747933,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.46/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.46/update/latest.zip",
@@ -200,7 +200,7 @@
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 1940644,
+    "DownloadCount": 1940646,
     "LastUpdate": 1776907903,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.21/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.21/update/latest.zip",
@@ -286,7 +286,7 @@
     "Tags": [],
     "InternalName": "BossMod",
     "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-    "DownloadCount": 1815502,
+    "DownloadCount": 1815505,
     "LastUpdate": 1776959346,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/0.4.25.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/0.4.25.3/update/latest.zip",
@@ -333,7 +333,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.17...7.4.5.18",
-    "DownloadCount": 2736629
+    "DownloadCount": 2736641
   },
   {
     "Author": "Minmoose, Asgard and Contributors",
@@ -407,7 +407,7 @@
     ],
     "InternalName": "Automaton",
     "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-    "DownloadCount": 608724,
+    "DownloadCount": 608731,
     "LastUpdate": 1777321979,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.176/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.176/update/latest.zip",
@@ -678,7 +678,7 @@
     "Tags": [],
     "InternalName": "vfaux",
     "RepoUrl": "https://github.com/awgil/vfaux",
-    "DownloadCount": 76223,
+    "DownloadCount": 76224,
     "LastUpdate": 1766096886,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.11/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.11/update/latest.zip",
@@ -716,7 +716,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.4.5.0/EasyZoomReborn.zip",
     "Changelog": "Updated for patch 7.45\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.4.0.0...7.4.5.0",
-    "DownloadCount": 44927
+    "DownloadCount": 44928
   },
   {
     "Author": "Ice",
@@ -847,7 +847,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 854401
+    "DownloadCount": 854406
   },
   {
     "Author": "vera.lyn",
@@ -957,7 +957,7 @@
     ],
     "InternalName": "Hyperborea",
     "RepoUrl": "https://github.com/kawaii/Hyperborea",
-    "DownloadCount": 33265,
+    "DownloadCount": 33266,
     "LastUpdate": 1766165729,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.33/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.33/update/latest.zip",
@@ -1000,8 +1000,8 @@
     "Author": "Usagi",
     "Name": "IINACT",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.10.1.0",
-    "TestingAssemblyVersion": "2.10.1.0",
+    "AssemblyVersion": "2.10.1.1",
+    "TestingAssemblyVersion": "2.10.1.1",
     "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marzent/IINACT",
@@ -1016,9 +1016,9 @@
     "Punchline": "A parsing plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.10.1.0/IINACT.zip",
-    "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.10.1.0/IINACT.zip",
-    "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.10.1.0/IINACT.zip"
+    "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.10.1.1/IINACT.zip",
+    "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.10.1.1/IINACT.zip",
+    "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.10.1.1/IINACT.zip"
   },
   {
     "Author": "NightmareXIV",
@@ -1089,7 +1089,7 @@
     ],
     "InternalName": "LazyLoot",
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-    "DownloadCount": 213612,
+    "DownloadCount": 213613,
     "LastUpdate": 1769259115,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.9/update/latest.zip",
@@ -1550,7 +1550,7 @@
     ],
     "InternalName": "Questionable",
     "RepoUrl": "https://github.com/PunishXIV/Questionable",
-    "DownloadCount": 791265,
+    "DownloadCount": 791267,
     "LastUpdate": 1777061890,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.207.70.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.207.70.0/update/latest.zip",
@@ -1669,7 +1669,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Signifigant improvements to PvP, and fixes for BLU rotation by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1226\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.34...7.4.5.35",
-    "DownloadCount": 2424238
+    "DownloadCount": 2424257
   },
   {
     "Author": "veyn, croizat",
@@ -1701,7 +1701,7 @@
     ],
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
-    "DownloadCount": 510150,
+    "DownloadCount": 510151,
     "LastUpdate": 1767092642,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/update/latest.zip",
@@ -1826,7 +1826,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 1673156,
+    "DownloadCount": 1673159,
     "LastUpdate": 1773892931,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.25/update/latest.zip",
@@ -2200,7 +2200,7 @@
     "Tags": [],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 829928,
+    "DownloadCount": 829929,
     "LastUpdate": 1776622834,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.26/update/latest.zip",
@@ -2264,6 +2264,6 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update to 7.45 and latest version of dalamud, fixed leaking hooks, and did some basic cleanup and optimizations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.2...7.4.5.0",
-    "DownloadCount": 9774
+    "DownloadCount": 9775
   }
 ]
