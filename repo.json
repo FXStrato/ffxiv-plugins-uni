@@ -29,29 +29,6 @@
     "DownloadCount": 25224
   },
   {
-    "AcceptsFeedback": false,
-    "ApplicableVersion": "any",
-    "AssemblyVersion": "0.8.2.0",
-    "Author": "Sevii",
-    "DalamudApiLevel": 14,
-    "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 208192,
-    "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
-    "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
-    "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
-    "IconUrl": "https://aetherment.sevii.dev/plugin/logo",
-    "InternalName": "Aetherment",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "Name": "Aetherment",
-    "Punchline": "Auto-updating and more customizable mods",
-    "RepoUrl": "https://github.com/Sevii77/aetherment",
-    "Tags": [
-      "Ui",
-      "Modding"
-    ]
-  },
-  {
     "Author": "NightmareXIV",
     "Name": "AntiAfkKick",
     "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
@@ -81,7 +58,7 @@
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DownloadCount": 4759508,
+    "DownloadCount": 4759515,
     "LastUpdate": 1777146524,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/update/latest.zip",
@@ -200,7 +177,7 @@
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 1942944,
+    "DownloadCount": 1944032,
     "LastUpdate": 1777417571,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.0.0/update/latest.zip",
@@ -333,7 +310,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.17...7.4.5.18",
-    "DownloadCount": 2736651
+    "DownloadCount": 2736655
   },
   {
     "Author": "Minmoose, Asgard and Contributors",
@@ -392,7 +369,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.0/latest.zip",
-    "DownloadCount": 22565,
+    "DownloadCount": 22574,
     "LastUpdate": "1776915919"
   },
   {
@@ -1089,7 +1066,7 @@
     ],
     "InternalName": "LazyLoot",
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-    "DownloadCount": 213756,
+    "DownloadCount": 214224,
     "LastUpdate": 1777466712,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.0/update/latest.zip",
@@ -1345,7 +1322,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.22/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.22/latest.zip",
-    "DownloadCount": 58537,
+    "DownloadCount": 58539,
     "LastUpdate": "1769615275"
   },
   {
@@ -1445,7 +1422,7 @@
     ],
     "InternalName": "PandorasBox",
     "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-    "DownloadCount": 1164517,
+    "DownloadCount": 1165532,
     "LastUpdate": 1777460766,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.32/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.32/update/latest.zip",
@@ -1605,7 +1582,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.0/latest.zip",
-    "DownloadCount": 12025,
+    "DownloadCount": 12026,
     "LastUpdate": "1776323333"
   },
   {
@@ -1669,7 +1646,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Signifigant improvements to PvP, and fixes for BLU rotation by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1226\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.34...7.4.5.35",
-    "DownloadCount": 2424281
+    "DownloadCount": 2424288
   },
   {
     "Author": "veyn, croizat",
@@ -1826,14 +1803,14 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 1675568,
-    "LastUpdate": 1777447226,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.3/update/latest.zip",
-    "AssemblyVersion": "3.9.1.3",
+    "DownloadCount": 1677076,
+    "LastUpdate": 1777487888,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.4/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.4/update/latest.zip",
+    "AssemblyVersion": "3.9.1.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Preliminary 7.5 update",
+    "Changelog": "- 7.5 update",
     "TestingAssemblyVersion": "3.9.1.1",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.1/install/testing.zip",
     "TestingDalamudApiLevel": "14",
@@ -2119,7 +2096,7 @@
     "Tags": [],
     "InternalName": "vnavmesh",
     "RepoUrl": null,
-    "DownloadCount": 1296454,
+    "DownloadCount": 1296457,
     "LastUpdate": 1771528015,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.2.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.2.9/update/latest.zip",
@@ -2200,7 +2177,7 @@
     "Tags": [],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 829933,
+    "DownloadCount": 829935,
     "LastUpdate": 1776622834,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.26/update/latest.zip",
@@ -2221,7 +2198,7 @@
     "Tags": [],
     "InternalName": "YesAlready",
     "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-    "DownloadCount": 1133086,
+    "DownloadCount": 1133088,
     "LastUpdate": 1770367039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.09/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.09/update/latest.zip",
@@ -2264,6 +2241,6 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update to 7.45 and latest version of dalamud, fixed leaking hooks, and did some basic cleanup and optimizations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.2...7.4.5.0",
-    "DownloadCount": 9776
+    "DownloadCount": 9780
   }
 ]
