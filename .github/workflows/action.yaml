@@ -9,23 +9,23 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
 
       - name: Run update script
         run: |
           node index.js
 
       - name: Verify changed files
-        uses: tj-actions/verify-changed-files@v20
+        uses: tj-actions/verify-changed-files@a1c6acee9df209257a246f2cc6ae8cb6581c1edf
         id: changed-files
         with:
           files: repo.json
 
       - name: Commit files
         if: steps.changed-files.outputs.files_changed == 'true'
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           message: Update repo.json
 
